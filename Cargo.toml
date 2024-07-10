@@ -1,0 +1,8 @@
+[package]
+name = "test-buf-prefetch"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+core_affinity = "0.8.1"
+
